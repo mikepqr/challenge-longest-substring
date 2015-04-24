@@ -9,6 +9,9 @@ import re
 # In[17]:
 
 def longest_substring(s):
+    '''
+    My docstring
+    '''
     
     a=str(s)
     b = list(a)
